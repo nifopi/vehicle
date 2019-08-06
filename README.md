@@ -1,6 +1,11 @@
 # vehicle
 teste Trust
 
+Este projeto foi feito em nodejs como  servidor API REST, usando banco de dados NoSQL Mongodb, ambos estão hospedados em um servidor para uso de teste, as configurações para acesso estão configurado no projeto, também foi elaborado um cliente para teste de funcionamento das API http://vehicle-com.umbler.net, logo abaixo segue exemplo como consumir as APIs usando Postman.
+
+
+
+
 
 # server
 
